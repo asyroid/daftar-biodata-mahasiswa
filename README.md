@@ -1,0 +1,81 @@
+Daftar Biodata Mahasiswa
+==
+Pertukaran Mahasiswa Merdeka (PMM) 3 - Universitas Malikussaleh
+--
+Berikut adalah daftar biodata mahasiswa yang berasal dari 76 perguruan tinggi:
+- IKIP Budi Utomo
+- Institut Bisnis dan Informatika (IBI) Kosgoro 1957
+- Institut Pendidikan dan Bahasa Invada
+- Sekolah Tinggi Ilmu Hukum IBLAM
+- Sekolah Tinggi Pariwisata Ambarrukmo Yogyakarta
+- Universitas 17 Agustus 1945 Surabaya
+- Universitas Airlangga
+- Universitas Amikom Yogyakarta
+- Universitas Andi Djemma Palopo
+- Universitas Bhinneka PGRI
+- Universitas Bosowa
+- Universitas Boyolali
+- Universitas Brawijaya
+- Universitas Budi Luhur
+- Universitas Cokroaminoto Palopo
+- Universitas Djuanda
+- Universitas Gadjah Mada
+- Universitas Halu Oleo
+- Universitas Hamzanwadi
+- Universitas Hasanuddin
+- Universitas Indonesia Membangun
+- Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin
+- Universitas Islam Raden Rahmat
+- Universitas Jenderal Soedirman
+- Universitas Kahuripan Kediri
+- Universitas Khairun
+- Universitas Lambung Mangkurat
+- Universitas Madura
+- Universitas Majalengka
+- Universitas Mataram
+- Universitas Mercu Buana
+- Universitas Mercu Buana Yogyakarta
+- Universitas Muhammadiyah Bandung
+- Universitas Muhammadiyah Bone
+- Universitas Muhammadiyah Jakarta
+- Universitas Muhammadiyah Kalimantan Timur
+- Universitas Muhammadiyah Prof Dr Hamka
+- Universitas Muhammadiyah Purwokerto
+- Universitas Muhammadiyah Purworejo
+- Universitas Muhammadiyah Semarang
+- Universitas Muhammadiyah Sidenreng Rappang
+- Universitas Muhammadiyah Sidoarjo
+- Universitas Mulawarman
+- Universitas Muria Kudus
+- Universitas Musamus Merauke
+- Universitas Muslim Indonesia
+- Universitas Negeri Gorontalo
+- Universitas Negeri Jakarta
+- Universitas Negeri Makassar
+- Universitas Negeri Malang
+- Universitas Negeri Semarang
+- Universitas Negeri Surabaya
+- Universitas Negeri Yogyakarta
+- Universitas Padjadjaran
+- Universitas Pamulang
+- Universitas Pembangunan Nasional Veteran Jawa Timur
+- Universitas Pendidikan Indonesia
+- Universitas Pendidikan Mandalika
+- Universitas PGRI Yogyakarta
+- Universitas Sam Ratulangi
+- Universitas Sebelas Maret
+- Universitas Selamat Sri
+- Universitas Semarang
+- Universitas Sembilanbelas November Kolaka
+- Universitas Singaperbangsa Karawang
+- Universitas Sulawesi Barat
+- Universitas Sultan Ageng Tirtayasa
+- Universitas Tadulako
+- Universitas Tanjungpura
+- Universitas Tidar
+- Universitas Tribhuwana Tungga Dewi
+- Universitas Trilogi
+- Universitas Trunojoyo
+- Universitas Udayana
+- Universitas Wahid Hasyim
+- Universitas Widya Gama
